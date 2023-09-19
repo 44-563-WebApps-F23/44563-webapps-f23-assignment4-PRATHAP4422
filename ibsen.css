@@ -12,7 +12,7 @@
 
 
 }
-.direction{
+.direction:hover{
     background-color: blue;
     color: orange;
 }
@@ -29,3 +29,18 @@
 .ENGSTRAND{
     color: aqua;
 }
+
+table { border: dashed 3px;
+    overflow: auto;
+    padding: 4px;
+        margin: 20px;
+
+}
+td, th {border: solid 1px;
+        text-align: center;
+        padding: 4px;
+        margin: auto;}
+tr {background-color: blueviolet ;}
+tr:nth-child(even) {background-color: goldenrod;}
+
+
