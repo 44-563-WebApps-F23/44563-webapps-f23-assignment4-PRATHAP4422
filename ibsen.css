@@ -43,4 +43,18 @@ td, th {border: solid 1px;
 tr {background-color: blueviolet ;}
 tr:nth-child(even) {background-color: goldenrod;}
 
+.MANDERS:hover{
+    text-shadow: 4px 2px 5px orange;
+}
+
+.ENGSTRAND:hover{
+    text-shadow: 6px 3px 5px  darkred;
+}
+
+.REGINA:hover{
+    text-shadow: 2px 5px 3px brown;
+}
+
+
+
 
