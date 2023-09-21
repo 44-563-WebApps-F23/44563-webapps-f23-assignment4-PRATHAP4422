@@ -78,7 +78,6 @@ ul.navbar-horizontal li {
 
   }
 
- 
 
   ul.navbar-horizontal a {
 
@@ -90,13 +89,9 @@ ul.navbar-horizontal li {
 
   }
 
- 
-
-  
-
   ul.navbar-horizontal a:hover {  
 
-    background-color: ivory;
+    background-color: khaki;
 
     color:white;
 
