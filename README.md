@@ -3,4 +3,4 @@
 A practice assignment for HTML with CSS
 
 
-“Hosted at" - https://github.com/44-563-WebApps-F23/44563-webapps-f23-assignment4-PRATHAP4422/tree/main/playpart.html
+“Hosted at" - https://44-563-webapps-f23.github.io/44563-webapps-f23-assignment4-PRATHAP4422/playpart.html
